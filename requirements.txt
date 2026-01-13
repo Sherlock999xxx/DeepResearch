@@ -46,7 +46,7 @@ fastapi-cli==0.0.11
 fastapi-cloud-cli==0.1.5
 fastrlock==0.8.3
 fastuuid==0.12.0
-filelock==3.19.1
+filelock==3.20.3
 frozendict==2.4.6
 frozenlist==1.7.0
 fsspec==2025.9.0
